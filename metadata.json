@@ -1,0 +1,5 @@
+{
+  "name": "Male Parts Remover",
+  "description": "Upload any music track with male vocals, and this tool will use AI to remove the male vocal part, providing you with a new version of the song.",
+  "requestFramePermissions": []
+}
